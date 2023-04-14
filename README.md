@@ -40,10 +40,10 @@
 * User can view the price chart of the respective cryptocurrency.
 
 
-### COMPATIBLE PLATFORMS
+### Compatible Platforms
 Laptops,Desktops and mobile phone.
 
-### TECH STACK  
+### Tech Stack 
 1. HTML, CSS, JavaScript, React.js
 2. Others: Rapid API, Redux toolkit, Ant design
 
@@ -55,13 +55,13 @@ Laptops,Desktops and mobile phone.
 1. Homepage
 2. Cryptocurrencies Page
 
-### HOME
+### Home
 1. It has includes global crypto stats-Market cap,Total Exchanges,Total 24h volume,Total cryptocurrencies and Total markets.
 
 2.	It then includes the top 10 cryptocurrencies in the world right now. 
 
 
-### CRYPTOCURRENCIES
+### Cryptocurrencies
 1. It includes all the cryptocurrencies in the world.We can search for a specific cryptocurrency as well.
 
 <!-- INSTALLATIONS -->
@@ -69,7 +69,7 @@ Laptops,Desktops and mobile phone.
 ## GETTING STARTED
 To install and run the project on your local system, clone this repo to your local machine and open command prompt and go to that path:
 
-### INSTALLATION
+### Installation
 ```sh
   npm install
 ```
