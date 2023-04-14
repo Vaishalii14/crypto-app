@@ -38,34 +38,34 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-* This project was built during the Microsoft Engage 2022 program.
-* It is a model based movie recommender system which recommends movie on the basis of ratings given by the user to other movies
-* A user can create account, login, rate movies, get recommendations, add movies to Watchlist and check about the cast and crew of a particular movie using the tmbd API.
+* As the cryptocurrency have been the talk of the town lately so I decided to built a webApp wherein a user can get all the crypto related information at one place .
+* This app contains various information like top 10 cyrptocurrencies,global crypto stats etc.
+* User can view the price chart of the respective cryptocurrency.
 
 
 ### Compatible Platforms
-Laptops and Desktops.
+Laptops,Desktops and mobile phone.
 
 ### Tech Stack  
-1.Front-end: HTML, CSS, Bootstrap, JavaScript
-2. Back-end: Django
+1. HTML, CSS, JavaScript, React.js
+2. Others: Rapid API, Redux toolkit, Ant design
+
 
 
 <!-- FUNCTIONALITIES -->
 
-## functionalities
+## Functionalities
 1. Homepage
-2. Cryptocurrencies
+2. Cryptocurrencies Page
 
 ### home
-There are 2 main types of memory-based collaborative filtering algorithms:
-1.	User-User Collaborative Filtering: Here we find look alike users based on similarity and recommend movies which first user’s look-alike has chosen in past. 
+1. It has includes global crypto stats-Market cap,Total Exchanges,Total 24h volume,Total cryptocurrencies and Total markets.
 
-2.	Item-Item Collaborative Filtering: It is quite similar to previous algorithm, but instead of finding user’s look-alike, we try finding movie’s look-alike. Once we have movie’s look-alike matrix, we can easily recommend alike movies to user who have rated any movie from the dataset. 
+2.	It then includes the top 10 cryptocurrencies in the world right now. 
 
 
 ### cryptocurrencies
-In the project ,I have userd user-user collaborative filtering using pearson coorelation. I have used the pivot table and correlation coefficient to recommend movies here. If the user likes a particular movie, it takes that movie’s columns and find the correlation of that column with all the other movie columns and get the movies that highly correlate with the chosen movie.
+1. It includes all the cryptocurrencies in the world.We can search for a specific cryptocurrency as well.
 
 <!-- INSTALLATIONS -->
 
@@ -74,14 +74,14 @@ To install and run the project on your local system, clone this repo to your loc
 
 ### Installation
 ```sh
-  pip install -r requirements.txt
+  npm install
 ```
 * To run it on the local host-
 
 To separately run the application on your local host,run the following command:
 
 ```sh
-  Python manage.py runserver
+  npm run start.
 ```
 
 <!-- APP TUTORIAL-->
