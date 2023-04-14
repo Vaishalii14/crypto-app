@@ -54,10 +54,8 @@ Laptops and Desktops.
 <!-- FUNCTIONALITIES -->
 
 ## functionalities
-1. Content-Based Filtering
-2. Memory-Based Collaborative Filtering
-3. Model-Based Collaborative Filtering
-4. Deep Learning / Neural Network
+1. Homepage
+2. Cryptocurrencies
 
 ### home
 There are 2 main types of memory-based collaborative filtering algorithms:
@@ -87,8 +85,9 @@ To separately run the application on your local host,run the following command:
 ```
 
 <!-- APP TUTORIAL-->
-## Navigating Through The App
-### Login 
+## Future Scope 
+### News
+### home-page
 
 
 
