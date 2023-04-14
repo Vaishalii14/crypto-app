@@ -1,6 +1,6 @@
 https://crypto-app-three-self.vercel.app/cryptocurrencies
 
-<h1 align="center">Cryptoverse </h1>
+<h1 align="center">Cryptoverse</h1>
 
  <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -21,7 +21,9 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
       </ul>
     </li>
     
-    <li><a href="#future-scope">Future Scope</a></li>
+    <li>
+      <a href="#future-scope">Future Scope</a>
+   </li>
     
   </ol>
 </details>
@@ -102,5 +104,9 @@ Registered users will get some recommendations based on the rating given by them
 ## Future Scope
 
 The recommendation system can be improved using model based collaborative filtering which is based on matrix factorization (MF). A well-known matrix factorization method is Singular value decomposition (SVD). At a high level, SVD is an algorithm that decomposes a matrix A into the best lower rank (i.e. smaller/simpler) approximation of the original matrix A. Mathematically, it decomposes A into a two unitary matrices and a diagonal matrix
+
+
+
+
 
 
