@@ -9,16 +9,15 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#problem-statement">Problem Statement</a></li>
         <li><a href="#compatible-platforms">Compatible Platforms</a></li>
         <li><a href="#tech-stack">Tech Stack</a></li>
       </ul>
     </li>
     <li>
-      <a href="#algorithms">Algorithms for Recommendation Engine</a>
+      <a href="#Functionalities">Functionalities of the webApp</a>
       <ul>
-        <li><a href="#collaborative-filtering">Collaborative Filtering</a></li>
-        <li><a href="#pearson-correaltion">Pearson Correlation</a></li>
+        <li><a href="Home">Home Screen</a></li>
+       <li><a href="Cryptocurrencies">Cryptocurrencies</a></li>
       </ul>
     </li>
     <li>
@@ -27,11 +26,12 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
+    
+<!--     <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
         <li><a href="#login">Login</a></li>
         <li><a href="#home-page">Home Page</a></li>
         <li><a href="#get-recommendations">Get Recommendations</a></li>
-      </ul>
+      </ul> -->
     <li><a href="#future-scope">Future Scope</a></li>
     
   </ol>
