@@ -31,7 +31,7 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
         <li><a href="#login">Login</a></li>
         <li><a href="#home-page">Home Page</a></li>
         <li><a href="#get-recommendations">Get Recommendations</a></li>
-      </ul> 
+      </ul>
     <li><a href="#future-scope">Future Scope</a></li>
     
   </ol>
