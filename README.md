@@ -1,4 +1,4 @@
-https://crypto-app-three-self.vercel.app/cryptocurrencies
+<h1 align="center">Deployed Website: </h1>https://crypto-app-three-self.vercel.app/cryptocurrencies
 
 <h1 align="center">Cryptoverse</h1>
  <!-- TABLE OF CONTENTS -->
@@ -25,10 +25,7 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="future Scope">Future Scope</a></li><ul>
-        <li><a href="#news">News</a></li>
-        <li><a href="#home-page">Home Page</a></li>
-        
+       
       
     
     
@@ -58,13 +55,13 @@ Laptops,Desktops and mobile phone.
 1. Homepage
 2. Cryptocurrencies Page
 
-### home
+### Home
 1. It has includes global crypto stats-Market cap,Total Exchanges,Total 24h volume,Total cryptocurrencies and Total markets.
 
 2.	It then includes the top 10 cryptocurrencies in the world right now. 
 
 
-### cryptocurrencies
+### Cryptocurrencies
 1. It includes all the cryptocurrencies in the world.We can search for a specific cryptocurrency as well.
 
 <!-- INSTALLATIONS -->
@@ -84,10 +81,7 @@ To separately run the application on your local host,run the following command:
   npm run start.
 ```
 
-<!-- APP TUTORIAL-->
-## Future Scope 
-### News
-### home-page
+
 
 
 
