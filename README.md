@@ -34,16 +34,16 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## ABOUT THE PROJECT
 * As the cryptocurrency have been the talk of the town lately so I decided to built a webApp wherein a user can get all the crypto related information at one place .
 * This app contains various information like top 10 cyrptocurrencies,global crypto stats etc.
 * User can view the price chart of the respective cryptocurrency.
 
 
-### Compatible Platforms
+### COMPATIBLE PLATFORMS
 Laptops,Desktops and mobile phone.
 
-### Tech Stack  
+### TECH STACK  
 1. HTML, CSS, JavaScript, React.js
 2. Others: Rapid API, Redux toolkit, Ant design
 
@@ -51,25 +51,25 @@ Laptops,Desktops and mobile phone.
 
 <!-- FUNCTIONALITIES -->
 
-## Functionalities
+## FUNCTIONALITIES
 1. Homepage
 2. Cryptocurrencies Page
 
-### Home
+### HOME
 1. It has includes global crypto stats-Market cap,Total Exchanges,Total 24h volume,Total cryptocurrencies and Total markets.
 
 2.	It then includes the top 10 cryptocurrencies in the world right now. 
 
 
-### Cryptocurrencies
+### CRYPTOCURRENCIES
 1. It includes all the cryptocurrencies in the world.We can search for a specific cryptocurrency as well.
 
 <!-- INSTALLATIONS -->
 
-## Getting Started
+## GETTING STARTED
 To install and run the project on your local system, clone this repo to your local machine and open command prompt and go to that path:
 
-### Installation
+### INSTALLATION
 ```sh
   npm install
 ```
