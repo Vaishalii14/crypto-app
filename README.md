@@ -42,8 +42,6 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
 * It is a model based movie recommender system which recommends movie on the basis of ratings given by the user to other movies
 * A user can create account, login, rate movies, get recommendations, add movies to Watchlist and check about the cast and crew of a particular movie using the tmbd API.
 
-### Problem Statement
-Demonstrate through your app the different kinds of algorithms that a web-streaming app (like Netflix) or an audio-streaming app (like Spotify) may use for their Recommendation Engine.
 
 ### Compatible Platforms
 Laptops and Desktops.
@@ -91,26 +89,9 @@ To separately run the application on your local host,run the following command:
 <!-- APP TUTORIAL-->
 ## Navigating Through The App
 ### Login 
-Registered Users can login into their account using the username and password and can start rating the movies and then get recommendations.
-
-<img src="images/login-screen.png" alt="login screen" width="700"/>
- 
-### Home Page-
-This page displays all the movies and users can click on the movie and give ratings and add them to list or can see the cast and crew of the movie. 
-
-<img src="images/Home-screen.png" alt="video call welcome screen" width="700"/>
-
-### Get Recommendations-
-Registered users will get some recommendations based on the rating given by them by clicking on the button 'Get Recommendation' to get some recommendations.
-
-<img src="images/recommendation-window.png" alt="blank chat window" width="700"/>
 
 
-<!-- FUTURE SCOPE -->
 
-## Future Scope
-
-The recommendation system can be improved using model based collaborative filtering which is based on matrix factorization (MF). A well-known matrix factorization method is Singular value decomposition (SVD). At a high level, SVD is an algorithm that decomposes a matrix A into the best lower rank (i.e. smaller/simpler) approximation of the original matrix A. Mathematically, it decomposes A into a two unitary matrices and a diagonal matrix
 
 
 
