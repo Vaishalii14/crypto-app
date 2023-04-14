@@ -1,16 +1,23 @@
 https://crypto-app-three-self.vercel.app/cryptocurrencies
 
 <h1 align="center">Cryptoverse</h1>
-
  <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
-   <ol>
+  <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#problem-statement">Problem Statement</a></li>
         <li><a href="#compatible-platforms">Compatible Platforms</a></li>
         <li><a href="#tech-stack">Tech Stack</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#algorithms">Algorithms for Recommendation Engine</a>
+      <ul>
+        <li><a href="#collaborative-filtering">Collaborative Filtering</a></li>
+        <li><a href="#pearson-correaltion">Pearson Correlation</a></li>
       </ul>
     </li>
     <li>
@@ -25,7 +32,6 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
         <li><a href="#get-recommendations">Get Recommendations</a></li>
       </ul>
     <li><a href="#future-scope">Future Scope</a></li>
-  
     
   </ol>
 </details>
