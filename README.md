@@ -29,7 +29,7 @@ https://crypto-app-three-self.vercel.app/cryptocurrencies
         <li><a href="#news">News</a></li>
         <li><a href="#home-page">Home Page</a></li>
         
-      </ul>
+      
     
     
   </ol>
